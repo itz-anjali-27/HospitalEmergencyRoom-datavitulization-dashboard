@@ -4,6 +4,7 @@
 
 Thrilled to share my latest Power BI project focusing on real-time ER insights!.
 This dashboard visualizes:
+
 ✅ Patient inflow by hour/day.
 ✅ Admission status & referrals.
 ✅ Average wait time & satisfaction score.
